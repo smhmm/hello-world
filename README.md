@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi All Octalhouse Members
+
+Smh here, I like javascript.
